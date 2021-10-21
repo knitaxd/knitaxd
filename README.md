@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on open sources.
-- 📫 How to reach me like @knitaxd on instagram and twitter ¡, and mi email is ismoialex@gmail.com
+- 📫 How to reach me like @knitaxd on instagram and twitter, and mi email is ismoialex@gmail.com
 
 <!---
 knitaxd/knitaxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @knitaxd
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning React, Styled Components, SQL and PL/SQL.
+- 👋 Hi, I’m Moises Silva
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Spring boot, Angular, and MySQL.
 - 💞️ I’m looking to collaborate on open sources.
-- 📫 You can reach me like @knitaxd on instagram and twitter, and mi email is ismoialex@gmail.com
+- 📫 silvateranma@gmail.com
 
 <!---
 knitaxd/knitaxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

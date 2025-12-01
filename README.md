@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moises Silva
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Spring boot, Angular, and MySQL.
+- 🌱 I’m currently learning Spring boot, React, Tailwind and MySQL.
 - 💞️ I’m looking to collaborate on open sources.
 - 📫 silvateranma@gmail.com
 
